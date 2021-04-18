@@ -186,3 +186,5 @@ optional arguments:
 * [x] [powercat.ps1](https://github.com/besimorhino/powercat/blob/master/powercat.ps1)
 * [x] [pspy](https://github.com/DominicBreuker/pspy/releases)
 * [x] [rdp2tcp.exe](https://github.com/NotMedic/rdp-tunnel/blob/master/rdp2tcp.exe)
+* [x] [revshells.com](https://revshells.com)
+
